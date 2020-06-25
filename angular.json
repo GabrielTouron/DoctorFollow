@@ -121,8 +121,16 @@
               "devServerTarget": "DocotorFollow:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
-  "defaultProject": "DocotorFollow"
+    }
+  },
+  "defaultProject": "DocotorFollow",
+  "cli": {
+    "analytics": "00146fb6-c931-4586-8cfa-c168da182ff2"
+  }
 }

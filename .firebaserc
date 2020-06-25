@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "doctorfollow-cad8d": {
+      "hosting": {
+        "DocotorFollow": [
+          "doctorfollow-cad8d"
+        ]
+      }
+    }
+  }
+}
